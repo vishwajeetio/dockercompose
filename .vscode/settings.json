@@ -3,6 +3,10 @@
         "**/env": true,
         "**/.gitignore": true,
         "**/trash": true,
-        "**/requirements.txt": true
+        "**/requirements.txt": true,
+        "**/client/node_modules": true,
+        "**/client/package-lock.json": true,
+        "**/client/build": true,
+        "**/server/node_modules": true
     }
 }
