@@ -1,5 +1,5 @@
 # DockerCompose 
-![Now Overdosing docker-ompose](trash/maxresdefault.jpg)  
+![Now Overdosing docker-ompose](data/maxresdefault.jpg)  
 
 [Overdoes SSH](http://ods.sh)  
 
